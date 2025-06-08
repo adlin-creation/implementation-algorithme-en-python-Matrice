@@ -4,8 +4,7 @@
 # Exercice 3-e : Implémentation des algorithmes
 #               PIVOT() et DIAGONALE()
 #
-# Auteurs : Adlin Louisama,     LOUA20309509
-#           Senat Lutherking,   SENL19109703
+# Auteurs : Adlin Louisama
 # ==============================================
 
 
